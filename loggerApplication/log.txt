@@ -1,0 +1,3 @@
+2025-10-22 [INFO] Application started.
+2025-10-22 [INFO] Divion was successfull: 20 / 10 = 2
+2025-10-22 [INFO] Application ended.
